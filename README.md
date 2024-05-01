@@ -1,6 +1,6 @@
 # Document Image Shadow Removal Guided by Color-Aware Background
 
-You can download the RDD dataset:[RDD](https://drive.google.com/file/d/1OUlF0XQrKxZT4l3sQsl9mVz9u6OKUDuy/view?usp=sharing)
+You can download the RDD dataset:[RDD]https://drive.google.com/drive/folders/1nS-p9qKCsFjOFyzq5q2m-Dq-PJVmLfNc?usp=sharing
 
 ## Cite
 
